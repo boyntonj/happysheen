@@ -938,14 +938,14 @@ section {
 }
 #footer .copyright {
   text-align: center;
-  opacity: 0.15;
+  opacity: 0.05;
 }
 #footer .credits {
   padding-top: 5px;
   text-align: center;
   font-size: 13px;
   color: #eaebf0;
-  opacity: 0.15;
+  opacity: 0.05;
 }
 @media (max-width: 1199px) {
   #footer {
